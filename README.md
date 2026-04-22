@@ -5,4 +5,4 @@
 👩🏻‍💻 [Fullstack Developer](https://www.linkedin.com/in/kent-richard-2133892ab/) <br/>
 👩🏻‍🎓 Studied Computer Science at the University AtmaJaya Yogyakarta, Indonesia<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentRichardPurnomo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentRichardPurnomo&show_icons=true&theme=radical)
